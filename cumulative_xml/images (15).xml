@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cumulative_jpeg</folder>
+	<filename>images (15).jpeg</filename>
+	<path>/Users/Thomas/Documents/Data Science/PROFESSION AI/ML_tecniche avanzate/side_project/cumulative_jpeg/images (15).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>97</ymin>
+			<xmax>50</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>120</ymin>
+			<xmax>131</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>48</ymin>
+			<xmax>215</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

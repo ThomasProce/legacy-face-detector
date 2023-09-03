@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cumulative_jpeg</folder>
+	<filename>imma12.jpg</filename>
+	<path>/Users/Thomas/Documents/Data Science/PROFESSION AI/ML_tecniche avanzate/side_project/cumulative_jpeg/imma12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>225</ymin>
+			<xmax>704</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>
