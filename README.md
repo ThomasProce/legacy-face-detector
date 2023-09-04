@@ -32,9 +32,9 @@ Key Features:
 To get started, simply clone this repository to your local machine and run the Jupyter Notebook file.
 
 ```bash
-git clone https://github.com/ThomasProce/Face-Detection-using-Legacy-methods.git
+git clone https://github.com/ThomasProce/legacy-face-detector.git
 cd Face-Detection-using-Legacy-methods
-open progetto_finale.ipynb
+open face_detector.ipynb
 ```
 ### Drawbacks of this kind of implementation
 
@@ -58,6 +58,13 @@ While implementing face detection using legacy methods like HOG features, image 
     
 9.  **Lack of Adaptability**: Unlike deep learning models, which can be fine-tuned or retrained for specific tasks, legacy methods may lack adaptability and may not perform optimally on novel face detection challenges.
     
+### *References:*
+
+1. [TensorFlow Object Detection API Tutorial - Training](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
+
+2. [Bayesian Quest part I](https://bayesianquest.com/2022/04/07/build-you-computer-vision-application-part-ii-data-preperation-and-annotation/)
+
+3. [Bayesian quest part II](https://bayesianquest.com/2022/04/20/build-you-computer-vision-application-part-iii-pothole-detector-from-scratch-using-legacy-methods-image-pyramids-and-sliding-window/)
 
 
 *In summary, while legacy face detection methods can be educational and suitable for specific applications where deep learning may not be an option, they come with limitations in terms of accuracy, speed, and adaptability, making them less desirable for many modern computer vision tasks.*
