@@ -33,7 +33,7 @@ To get started, simply clone this repository to your local machine and run the J
 
 ```bash
 git clone https://github.com/ThomasProce/legacy-face-detector.git
-cd Face-Detection-using-Legacy-methods
+cd legacy-face-detector
 open face_detector.ipynb
 ```
 ### Drawbacks of this kind of implementation
